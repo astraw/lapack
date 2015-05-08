@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["goto_set_num_threads",""],["openblas_get_config",""],["openblas_get_corename",""],["openblas_get_parallel",""],["openblas_set_num_threads",""]]});

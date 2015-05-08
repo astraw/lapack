@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["metal","Minimalistic wrappers for LAPACK routines."]]});
